@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">CarbonZero_app</string>
+    <string name="carbon">Carbon</string>
+    <string name="zero">Zero</string>
 </resources>
